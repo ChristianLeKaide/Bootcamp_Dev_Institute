@@ -1,0 +1,24 @@
+span {
+  background-color: yellow;
+}
+.chat {
+  text-align: center;
+}
+table {
+  text-align: center;
+}
+.difference {
+  text-align: center;
+  color: red;
+}
+th {
+  border: solid black 1px;
+  width: 800px;
+}
+td {
+  border: solid black 1px;
+  width: 400px;
+}
+.lion {
+  text-align: center;
+}

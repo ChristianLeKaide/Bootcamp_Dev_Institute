@@ -1,0 +1,50 @@
+.salutation {
+  color: red;
+  font-weight: bold;
+}
+body {
+  background-color: #ff004125;
+}
+.tableau {
+  border: solid;
+}
+th {
+  background-color: rgb(102, 5, 5);
+}
+td {
+  color: white;
+  background-color: rgb(10, 10, 10);
+}
+.drapeau {
+  display: flex;
+}
+.b1 {
+  height: 150px;
+  width: 60px;
+  background-color: blue;
+}
+.b2 {
+  height: 150px;
+  width: 60px;
+  background-color: white;
+}
+.b3 {
+  height: 150px;
+  width: 60px;
+  background-color: red;
+}
+.li2 {
+  color: blue;
+}
+.div1 li {
+  text-transform: uppercase;
+}
+.rose {
+  color: white;
+  background-color: rgb(238, 4, 51);
+}
+.bleu_clair {
+  background-color: rgb(3, 61, 250);
+  padding: 4px;
+  margin: 3px;
+}
