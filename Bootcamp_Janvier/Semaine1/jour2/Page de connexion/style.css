@@ -1,0 +1,144 @@
+.article_form {
+  margin-top: 10%;
+}
+.article_form {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+hr {
+  width: 30%;
+  height: 0px;
+}
+
+.form_footer div {
+  display: flex;
+  align-items: center;
+}
+
+.section_register {
+  padding-left: 30px;
+  width: 27%;
+  height: 400px;
+  background-color: rgb(66, 3, 71);
+}
+.formulaire {
+  padding-top: 60px;
+}
+.section_form {
+  width: 27%;
+  height: 400px;
+  background-color: gainsboro;
+}
+
+.formulaire input {
+  margin-bottom: 15px;
+}
+
+.checkbox {
+  height: 15px;
+  width: 15px;
+}
+
+.formulaire form {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.submit {
+  background-color: rgb(66, 3, 71);
+  color: white;
+  border: 0px;
+  height: 30px;
+  width: 240px;
+}
+
+.mail {
+  border: 0px;
+  padding-left: 10px;
+  height: 30px;
+  width: 240px;
+}
+
+.password {
+  border: 0px;
+  padding-left: 10px;
+  height: 30px;
+  width: 240px;
+}
+
+.reseaux_sociaux {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.reseaux_sociaux img {
+  height: 30px;
+  width: 30px;
+}
+
+.btn_register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 30px;
+  width: 110px;
+  border-radius: 20px;
+  border: solid white 1px;
+}
+
+.btn_register button {
+  height: 30px;
+  width: 80px;
+  border-radius: 20px;
+  background-color: rgb(66, 3, 71);
+  color: white;
+  border: 0px;
+  font-size: 10px;
+  font-weight: bold;
+  font-family: "Lucida Sans", "Lucida Sans Regular", "Lucida Grande",
+    "Lucida Sans Unicode", Geneva, Verdana, sans-serif;
+}
+
+.btn_register img {
+  height: 25px;
+  width: 25px;
+}
+
+.texte {
+  color: white;
+  font-size: 13px;
+  font-family: Arial, Helvetica, sans-serif;
+  width: 80%;
+  text-align: center;
+}
+
+.hello {
+  color: white;
+  font-size: 25px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-right: 50px;
+}
+
+.section_register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.trident {
+  height: 80px;
+  width: 80px;
+  text-align: center;
+}
+
+.trident,
+.btn_register {
+  margin-left: 80px;
+}

@@ -2,10 +2,10 @@
   margin: 0px;
 }
 article {
-  background-image: url("images/téléchargé.jpg");
+  background-image: url("images/baniere.jpg");
   background-repeat: no-repeat;
   background-size: cover;
-  height: 100vh;
+  height: 70vh;
 }
 
 header nav {

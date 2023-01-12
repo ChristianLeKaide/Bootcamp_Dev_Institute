@@ -1,0 +1,121 @@
+* {
+  margin: 0px;
+}
+header nav {
+  background-color: black;
+  height: 80px;
+  width: 100%;
+}
+
+.lien h3 {
+  color: white;
+}
+
+nav div {
+  display: inline-block;
+  margin: 15px;
+}
+
+.baniere img {
+  width: 100%;
+}
+
+.lien {
+  float: right;
+}
+
+.container_article {
+  display: inline-block;
+}
+
+.articles {
+  height: 400px;
+  width: 300px;
+  background-color: rgb(172, 170, 170);
+  margin: 10px;
+  border-radius: 15px;
+}
+
+.articles img {
+  height: 100%;
+  width: 100%;
+  border-radius: 15px;
+}
+
+.articles {
+  position: relative;
+}
+
+.articles button {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+  border: 0px;
+  color: white;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.btn1 {
+  position: absolute;
+  left: 10px;
+  top: 10px;
+  background-color: green;
+}
+
+.btn2 {
+  position: absolute;
+  right: 10px;
+  top: 10px;
+  background-color: red;
+}
+
+.description {
+  margin-left: 30%;
+  margin-top: 3px;
+}
+
+.description h5 {
+  font-size: 12px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.prix {
+  margin-top: 5px;
+}
+
+.prix1,
+.prix2 {
+  display: inline-block;
+}
+
+.prix1 {
+  font-size: 15px;
+  font-weight: bold;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+  color: green;
+}
+
+.prix2 {
+  font-size: 12px;
+  text-decoration: line-through;
+  font-family: "Franklin Gothic Medium", "Arial Narrow", Arial, sans-serif;
+}
+
+.add {
+  margin-top: 20px;
+}
+
+.btn_add {
+  background-color: rgb(185, 181, 181);
+  height: 35px;
+  width: 100px;
+  font-size: 13px;
+  font-weight: bold;
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  border: solid 0.2px;
+  border-radius: 10px;
+  border: 0px;
+}
